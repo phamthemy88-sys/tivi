@@ -1,6 +1,7 @@
 {
-  "versionCode": 4, 
-  "versionName": "1.0.3",
-  "apkUrl": "https://raw.githubusercontent.com/phamthemy88-sys/tivi/main/xemtivi.apk",
-  "message": "Bản cập nhật mới nhất:\n- Đã sửa lỗi Menu nằm dưới.\n- Thêm Logo và lớp phủ màu sắc nét.\n- Tự động phát kênh yêu thích."
+  "version_code": 2,
+  "version_name": "1.0.1",
+  "url": "https://raw.githubusercontent.com/username/repo/main/app-release.apk",
+  "changelog": "Cập nhật tính năng xem TV và sửa lỗi tự động cập nhật.",
+  "force_update": true
 }
