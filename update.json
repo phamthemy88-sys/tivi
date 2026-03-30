@@ -1,6 +1,6 @@
 {
-  "versionCode": 3, 
-  "versionName": "1.0.2",
-  "apkUrl": "https://raw.githubusercontent.com/phamthemy88-sys/tivi/refs/heads/main/xemtivi.apk",
-  "message": "Nội dung bản cập nhật mới:\n- Thêm danh sách kênh mới.\n- Sửa lỗi Menu điều hướng.\n- Tăng tốc độ tải kênh."
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://raw.githubusercontent.com/phamthemy88-sys/tivi/main/xemtivi.apk",
+  "message": "Cập nhật Menu dưới và Logo kênh."
 }
